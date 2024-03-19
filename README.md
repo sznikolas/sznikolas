@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolas</h1>
 <h3 align="center">A passionate backend developer from Slovakia</h3>
 
-- 🔭 I’m currently working on **a mechanic management system**
+- 🔭 I’m currently working on **a mechanical management system**
 
 - 🌱 I’m currently learning **Spring framework**
 
