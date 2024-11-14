@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills.
 
-- 🎯 Goals: to be better a **backend developer..**
+- 🎯 Goals: to be a **backend developer..**
 
 <p align="left">
 </p>
