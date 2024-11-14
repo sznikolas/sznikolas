@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikolas</h1>
 <h3 align="center">A passionate backend developer from Slovakia</h3>
 
-- 🔭 I’m currently working on **a mechanical management system**
+- 🔭 I’m currently working on Java/Spring related topics.
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently improving my skills.
 
-- 🎯 Goals: **to be better me**
+- 🎯 Goals: to be better a **backend developer..**
 
 <p align="left">
 </p>
